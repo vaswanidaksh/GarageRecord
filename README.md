@@ -1,4 +1,3 @@
-# GarageRecord
 # 🚗 GarageRecord Smart Contract
 
 A simple, beginner-friendly Solidity smart contract designed to store and manage vehicle garage records on-chain.
