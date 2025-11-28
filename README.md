@@ -6,6 +6,8 @@ Vehicle Records — Decentralized Vehicle Registry on Coston2 (Flare)
 ## Contract Address
 `0x5381fFB9843842376f19cB2e14857dAe9E39E192`  
 Explorer: https://coston2-explorer.flare.network/address/0x5381fFB9843842376f19cB2e14857dAe9E39E192
+<img width="1366" height="768" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/cdde9aa9-2c7b-4e9d-87b5-ccb78665bb0f" />
+
 
 ## Description
 This project is a lightweight frontend that interacts with a deployed smart contract providing an on-chain vehicle registry. The contract stores vehicle records (VIN, make, model, year, current owner name, timestamps and service status) and exposes functionality for adding records, querying by VIN or index, marking records as serviced, and removing records. The UI and hook in this repository are designed to:
